@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+models/
+data/loan_data.csv
+*.ipynb_checkpoints
